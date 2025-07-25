@@ -106,7 +106,7 @@ toko-parfum/
 - `shipping_addresses`: alamat kirim customer
 
 ### Diagram ERD:
->  Silakan lihat file gambar ERD di folder `/docs`
+>  Silakan lihat file gambar ERD di folder `docs`
 
 ---
 
