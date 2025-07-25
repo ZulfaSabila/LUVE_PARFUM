@@ -1,6 +1,6 @@
 # 🌸 Toko Parfum – Aplikasi Pemesanan dan Manajemen Penjualan Parfum
 
-Selamat datang di repositori **Toko Parfum**, sebuah aplikasi web berbasis **PHP Native** dan **MySQL** yang digunakan untuk mengelola data produk parfum, pemesanan pelanggan, serta transaksi penjualan secara online dan efisien.
+Selamat datang di repositori **Toko Parfum**, sebuah aplikasi web berbasis HTML, PHP Native, Javascript dan MySQL yang digunakan untuk mengelola data produk parfum, pemesanan pelanggan, serta transaksi penjualan secara online dan efisien.
 
 ---
 
